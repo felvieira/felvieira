@@ -15,6 +15,12 @@
   <a href="https://www.linkedin.com/in/felvieira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-felvieira-blue?style=flat&logo=linkedin" />
   </a>
+  <a href="https://www.youtube.com/channel/UClX8duF1EEuwHImhTigFHEA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-LowCode%20Mastery-red?style=flat&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://tidycal.com/felvieiradev" target="_blank">
+    <img src="https://img.shields.io/badge/Consultoria-Agendar%20Reunião-blueviolet?style=flat&logo=googlecalendar&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,11 +70,11 @@ Frontend Senior Developer e AI Consultant com **16+ anos** criando produtos digi
 |---|---|---|
 | 🎬 [PosterFlix](https://posterflix.online) | Gerador de pôsteres com IA no padrão Netflix, Prime Video e Disney+. Render em 15s, 300 DPI CMYK | React 18, Supabase, Stripe, Redis, Docker |
 | 💅 VisaLab | Consultoria de estilo pessoal com GPT-4 Vision, análise de cores, biotipo e rosto | Next.js 15, OpenAI, Prisma, PostgreSQL, Stripe |
-| 📖 [Memra Bíblia](https://memrabiblia.org) | Estudo bíblico com IA, pesquisa científica e análise histórico-crítica | Tauri, Next.js, OpenAI, Android |
-| 🤖 Thoth AI | Copiloto IA desktop 100% local — alternativa a ferramentas de $148/mês | Tauri 2.0, Rust, React 18, SQLite, RAG |
-| 💸 Cadê o Dinheiro | Gestão financeira inteligente com insights de IA e dashboard completo | React, TypeScript, Supabase, OpenAI |
+| 📖 [Memra Bíblia](https://memrabiblia.org/landing) | Estudo bíblico com IA, pesquisa científica e análise histórico-crítica | Tauri, Next.js, OpenAI, Android |
+| 🤖 [Thoth AI](https://www.thothai.online) | Copiloto IA desktop 100% local — alternativa a ferramentas de $148/mês | Tauri 2.0, Rust, React 18, SQLite, RAG |
+| 💸 [Cadê o Dinheiro](https://cadeodinheiro.online) | Gestão financeira inteligente com insights de IA e dashboard completo | React, TypeScript, Supabase, OpenAI |
 | 🏆 IOT - I Own This | Marketplace onde usuários compram/vendem títulos virtuais com economia real | React 18, Node.js, PostgreSQL, Stripe, Docker |
-| 💪 [Getfitty](https://getfitty-personal-apps.netlify.app/) | App de treinos e dietas 100% personalizados por IA | React, Node.js, Vite |
+| 💪 [Getfitty](https://app.getfitty.com.br) | App de treinos e dietas 100% personalizados por IA | React, Node.js, Vite |
 
 ---
 
@@ -202,5 +208,4 @@ Frontend Senior Developer e AI Consultant com **16+ anos** criando produtos digi
 
 <p align="center">
   <i>"Transformando ideias em produtos digitais com código, IA e muita cafeína ☕"</i><br/>
-  <code>// Construído com React + TypeScript + Tailwind</code>
 </p>
