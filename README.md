@@ -1,93 +1,206 @@
-<h1 align="center">Hi 👋, I'm Felipe Vieira</h1>
-<h3 align="center">A passionate Front-end and Digital Designer with complete insight knowledge related to my skills and experience</h3>
+<h1 align="center">Olá 👋, eu sou Felipe Vieira</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felvieira&label=Profile%20views&color=0e75b6&style=flat" alt="felvieira" /> </p>
+<h3 align="center">
+  Frontend Senior · AI Consultant · Founder @ Posterflix · Creator @ LowCode Mastery
+</h3>
 
-- 🔭 I’m currently working on [FAQ Pagseguro](https://faq.pagseguro.uol.com.br)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/felvieira](https://www.behance.net/felvieira)
-
-- 💬 Ask me about **React, Vue, Js, Handlebars, Html, Css, Photohop, Premiere, Corel, Figma**
-
-- 📫 How to reach me **felipe.vieira2008@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/felvieira/](https://www.linkedin.com/in/felvieira/)
-
-- ⚡ Fun fact **I was a police officer**
-
-# Projetos e Aplicativos
-
-Aqui estão alguns projetos e aplicativos desenvolvidos:
-
-## Aplicativos na GooglePlay
-
-- [DSEstúdios](https://play.google.com/store/apps/developer?id=DSEst%C3%BAdios): Este é o link para a página do desenvolvedor DSEstúdios na Google Play Store.
-
-## Speech to Calc
-
-- [Aplicativo](https://speech-to-calc.netlify.app/): O Speech to Calc é um projeto web que permite a realização de operações matemáticas através de comandos de voz. O aplicativo foi desenvolvido em Vanilla JavaScript, ou seja, sem o uso de frameworks ou bibliotecas adicionais, e oferece uma interface simples e intuitiva para que os usuários possam realizar suas operações matemáticas facilmente, utilizando apenas a voz.
-
-## Cashback Ranking
-
-- [Aplicativo](https://cashback-ranking-js.vercel.app/): O Cashback Ranking é um projeto que apresenta um ranking dos melhores programas de cashback disponíveis. O site fornece informações detalhadas sobre cada programa, incluindo a descrição, benefícios, regras e condições. Os usuários podem navegar pelo ranking e encontrar as melhores opções de cashback para suas necessidades. Além disso, o projeto possui um layout amigável e intuitivo, facilitando a pesquisa e a tomada de decisão dos usuários.
-
-## GetFitty Personal Apps
-
-- [Aplicativo](https://getfitty-personal-apps.netlify.app/): O GetFitty Personal Apps é uma plataforma desenvolvida com o uso do framework Quasar e Vue.js. Essa plataforma foi projetada para auxiliar profissionais de educação física na criação e personalização de exercícios e treinos para seus alunos. Através dessa plataforma, os profissionais podem acessar uma ampla variedade de exercícios físicos e recursos para desenvolver programas de treinamento personalizados.
-
-## NanoCred
-
-- [Aplicativo](https://nanocred.netlify.app/): NanoCred é uma empresa que oferece soluções de empréstimos online para pessoas físicas e jurídicas. A empresa tem o objetivo de tornar o processo de obtenção de crédito mais rápido e fácil, oferecendo empréstimos com taxas de juros competitivas e condições de pagamento flexíveis. O processo de solicitação de empréstimo é realizado online, e os usuários podem acompanhar todo o processo de aprovação do empréstimo através do site ou do aplicativo da NanoCred.
-
-## FAQ PagSeguro
-
-- [Perguntas Frequentes](https://faq.pagseguro.uol.com.br/): Este é o site oficial de Perguntas Frequentes (FAQ) da PagSeguro, uma empresa de pagamentos online que oferece soluções para pessoas físicas e jurídicas realizarem transações financeiras pela internet. O FAQ é uma seção dedicada a responder as dúvidas mais comuns dos usuários sobre os serviços oferecidos pela PagSeguro, tais como como criar uma conta, como realizar uma transação, como solicitar um cartão pré-pago, como usar a maquininha de cartão, e muitos outros assuntos relacionados a pagamentos eletrônicos.
-
-## Promofacil
-
-- [Site](https://promofacil.netlify.app/): O Promofacil é um site que tem como objetivo apresentar promoções de produtos e serviços para os usuários. O site foi desenvolvido utilizando tecnologias web modernas, como HTML, CSS e JavaScript, juntamente com o framework React.
-
-## Carteira Fácil
-
-- [Aplicativo](https://carteira-facil.netlify.app/): O Carteira Fácil é um aplicativo que oferece uma solução conveniente para aqueles que estão cansados de ter que carregar vários cartões de crédito ou se preocupar em esquecer os dados do cartão em casa. Com este aplicativo, os usuários podem armazenar e organizar todos os seus cartões em um só lugar, juntamente com documentos importantes como CPF e RG, tornando-o uma carteira digital completa.
-
-## Gerenciador de Séries
-
-- [Aplicativo](https://gerenciador-series-react.netlify.app/new-series): O Gerenciador de Séries é um aplicativo desenvolvido em React disponibilizado na plataforma Netlify. Ele oferece uma plataforma para que os usuários possam gerenciar suas séries favoritas, permitindo que eles criem uma lista personalizada de séries que já assistiram ou pretendem assistir.
-
-## Gerenciall Fácil
-
-- [Site](https://gerenciall-facil.netlify.app/): Este é um site que oferece uma plataforma para gerenciamento de tarefas relacionadas a organizações. Ele permite que os usuários criem contas e cadastrem suas organizações, notas, senhas e lembretes.
-
-## GitHub Users Find
-
-- [Aplicativo](https://github-users-find.netlify.app/): Este é um aplicativo chamado "GitHub Users Find" disponibilizado na plataforma Netlify. Ele oferece uma solução para a busca de usuários do GitHub de forma fácil e rápida. Com este aplicativo, os usuários podem inserir o nome de um usuário do GitHub e ter acesso a informações detalhadas sobre o perfil, incluindo o número de repositórios, seguidores e seguindo.
-
-## Blog pessoal
-
-- [Site](https://blog-felvieira.vercel.app/): Este é um site que apresenta um blog pessoal criado do zero. Ele usa a linguagem de programação JavaScript e o framework Next.js para construir a interface do usuário. O objetivo é compartilhar informações, opiniões e dicas relacionadas a desenvolvimento web e tecnologia em geral.
-
-## GitHub Explorer
-
-- [Aplicativo](https://github-explorer-ts-pi.vercel.app/): Este é um site que permite que os usuários pesquisem e visualizem informações de repositórios no Github. Ele utiliza a linguagem de programação TypeScript e o framework React para construir a interface do usuário.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/felvieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="felvieira" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felvieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felvieira" height="30" width="40" /></a>
-<a href="https://fb.com/feelvieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="feelvieira" height="30" width="40" /></a>
-<a href="https://instagram.com/flpchapola" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="flpchapola" height="30" width="40" /></a>
-<a href="https://www.behance.net/felvieira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="felvieira" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felvieira&label=Profile%20views&color=0e75b6&style=flat" alt="felvieira" />
+  <a href="https://www.felvieira.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-felvieira.com.br-0e75b6?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://posterflix.online" target="_blank">
+    <img src="https://img.shields.io/badge/PosterFlix-Live%20SaaS-success?style=flat&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/felvieira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-felvieira-blue?style=flat&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felvieira&show_icons=true&locale=en&layout=compact" alt="felvieira" /></p>
+### 🧠 Sobre Mim
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felvieira&show_icons=true&locale=en" alt="felvieira" /></p>
+```ts
+const developer = {
+  nome:        "Felipe Vieira",
+  role:        "Frontend Senior & AI Consultant",
+  empresa:     "Posterflix",
+  local:       "Araraquara, SP - Brasil",
+  experiencia: 16,
+  idiomas:     ["PT", "EN"],
+  stack:       ["React", "Next.js", "Vue", "Node.js", "TypeScript"],
+  foco:        ["IA Generativa", "SaaS", "Automação", "Vibe Coding"],
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felvieira&" alt="felvieira" /></p>
+Frontend Senior Developer e AI Consultant com **16+ anos** criando produtos digitais focados em performance, acessibilidade e inovação. Founder da **[Posterflix](https://posterflix.online)**, com experiência em integração com IA generativa (chatbots, voice agents e automações low-code) e liderança técnica em projetos de grande escala como **PagBank/PagSeguro**, **Renner** e **C&A**.
 
+- 🎬 Fundador do **[PosterFlix](https://posterflix.online)** — SaaS de geração de pôsteres com IA no padrão Netflix/Disney+
+- 📖 Fundador do **[Memra Bíblia](https://memrabiblia.org)** — app de estudos bíblicos com análise histórico-crítica e IA
+- 🤖 Criador do **Thoth AI** — copiloto de IA desktop 100% local para produtividade
+- 💸 Criador do **Cadê o Dinheiro** — gestão financeira inteligente com assistente de IA
+- 💅 Criador do **VisaLab** — consultoria de estilo pessoal com GPT-4 Vision
+- 🎓 Criador do **LowCode Mastery** — cursos sobre desenvolvimento com IA e ferramentas low-code
+- 📍 Baseado em **Araraquara, SP — Brasil**
+- ⚡ Fun fact: **Fui policial antes de entrar para a tecnologia**
+
+---
+
+### 📊 Números
+
+<p align="center">
+  <img src="https://img.shields.io/badge/16%2B-Anos%20de%20Experiência-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/143%2B-Projetos%20Concluídos-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%2B-Clientes%20Satisfeitos-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/20%2B-Certificações-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 Meus SaaS & Produtos
+
+| Produto | Descrição | Stack |
+|---|---|---|
+| 🎬 [PosterFlix](https://posterflix.online) | Gerador de pôsteres com IA no padrão Netflix, Prime Video e Disney+. Render em 15s, 300 DPI CMYK | React 18, Supabase, Stripe, Redis, Docker |
+| 💅 VisaLab | Consultoria de estilo pessoal com GPT-4 Vision, análise de cores, biotipo e rosto | Next.js 15, OpenAI, Prisma, PostgreSQL, Stripe |
+| 📖 [Memra Bíblia](https://memrabiblia.org) | Estudo bíblico com IA, pesquisa científica e análise histórico-crítica | Tauri, Next.js, OpenAI, Android |
+| 🤖 Thoth AI | Copiloto IA desktop 100% local — alternativa a ferramentas de $148/mês | Tauri 2.0, Rust, React 18, SQLite, RAG |
+| 💸 Cadê o Dinheiro | Gestão financeira inteligente com insights de IA e dashboard completo | React, TypeScript, Supabase, OpenAI |
+| 🏆 IOT - I Own This | Marketplace onde usuários compram/vendem títulos virtuais com economia real | React 18, Node.js, PostgreSQL, Stripe, Docker |
+| 💪 [Getfitty](https://getfitty-personal-apps.netlify.app/) | App de treinos e dietas 100% personalizados por IA | React, Node.js, Vite |
+
+---
+
+### 💼 Experiência Profissional
+
+**Posterflix** — Founder & CEO *(mai/2024 – Presente)*
+> SaaS de IA para geração de pôsteres profissionais. Stack: React 18, TypeScript, Vite, Tailwind, Supabase, Stripe, Redis, Docker.
+
+**Compass UOL / PagBank** — Frontend Senior *(mai/2023 – Presente)*
+> FAQ & Chatbot com IA: page-load -40%, até 70% das dúvidas resolvidas sem agente humano.
+
+**C&A** — Frontend Senior *(mar/2024 – mai/2025)*
+
+**Lojas Renner S.A.** — Frontend Senior *(fev/2023 – mar/2024)*
+
+**Invillia / PagBank** — Frontend Developer *(ago/2017 – fev/2023)*
+
+**Personal Virtual** — Founder *(abr/2016 – mai/2019)*
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React_18-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js_14-000000?style=flat&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/-ShadCN_UI-000000?style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+**Backend & DevOps**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+**IA & Automação**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude_API-CC785C?style=flat)
+![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![VAPI](https://img.shields.io/badge/-VAPI-000000?style=flat)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat)
+![RASA](https://img.shields.io/badge/-RASA-5A17EE?style=flat)
+
+---
+
+### 📂 Projetos Open Source & Portfolio
+
+| Projeto | Descrição | Tech |
+|---|---|---|
+| [Deep Research](https://github.com/felvieira) | Alternativa open source à pesquisa profunda da OpenAI ($200/mês) | Next.js, TypeScript, OpenAI |
+| [Myndo PWA](https://github.com/felvieira) | Template PWA offline-first com sync em nuvem, auth e IndexedDB | React 18, Supabase, Dexie |
+| [Clockify Automator](https://github.com/felvieira) | Lançamento de horas em lote no Clockify para múltiplos dias | React, TypeScript, ShadCN |
+| [Bot Kanbanize Node](https://github.com/felvieira) | Bot Telegram integrado ao Kanbanize para criação de tarefas | Node.js, Telegram API |
+| [SVG to React Component](https://github.com/felvieira) | Conversor online de SVG para componente React com otimização SVGO | React, SVGO |
+| [Regressive Test JS](https://github.com/felvieira) | Testes de regressão visual com Puppeteer e comparação pixel-a-pixel | Node.js, Puppeteer, Pixelmatch |
+| [Speech to Calc](https://speech-to-calc.netlify.app/) | Calculadora via comandos de voz, sem frameworks | Vanilla JS, Web Speech API |
+| [GitHub Explorer](https://github-explorer-ts-pi.vercel.app/) | Pesquisa e visualização de repositórios GitHub | React, TypeScript |
+
+---
+
+### 🎓 Formação & Certificações
+
+- **Pós-graduação — Web 3.0** · Descomplica Faculdade Digital *(2024–2025)*
+- **MBA — Liderança** · FASU / Unigrad *(2021–2022)*
+- **Bacharelado — Design Digital e Webdesign** · Uniara *(2007–2011)*
+
+**Principais Certificações:** AI Certified Professional (Compass UOL), Next.js App Router (Rocketseat), React & Vue Assessment (Coodesh), Dialogflow & Chatbot (Udemy), Scrum (Impacta), Google Analytics (Alura)
+
+---
+
+### 📺 YouTube — Conteúdo sobre IA & Desenvolvimento
+
+> Canal com **34+ vídeos** sobre ferramentas de IA, vibe coding e tutoriais para devs brasileiros.
+
+🔥 Vídeos mais vistos:
+- *Domine o CURSOR: Configurações Secretas* — **12.8K views**
+- *Use bolt.new GRATUITAMENTE no seu PC* — **12.6K views**
+- *Transforme sua foto em pôster com IA no PosterFlix* — **119K views** (Short)
+- *Desenvolvi um SaaS em 30 dias usando SÓ IA* — **5.3K views**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felvieira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="felvieira" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felvieira&show_icons=true&locale=en&theme=tokyonight" alt="felvieira" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felvieira&theme=tokyonight" alt="felvieira" /></p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/felvieira" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/felvieira.dev" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@felvieira" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.tiktok.com/@felvieira.dev" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/felvieira" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.felvieira.com.br" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" height="30" width="40" />
+  </a>
+</p>
+
+📧 **felipe@felvieira.dev** · 🔗 **[links.felvieira.com.br](https://links.felvieira.com.br)**
+
+---
+
+<p align="center">
+  <i>"Transformando ideias em produtos digitais com código, IA e muita cafeína ☕"</i><br/>
+  <code>// Construído com React + TypeScript + Tailwind</code>
+</p>
