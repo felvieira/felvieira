@@ -38,9 +38,9 @@ Construo produtos digitais e modernizo plataformas com foco em frontend, arquite
 
 | Extensão | O que faz |
 |---|---|
-| [MIRROR](https://mirror.felvieira.com.br/) | Mostra insights sobre hábitos digitais; o histórico fica no navegador. |
-| [TeamScript](https://teamscript.felvieira.com.br/) | Exporta transcrições já exibidas no Microsoft Teams para TXT, Markdown, SRT ou JSON. |
-| [LinkVault](https://linkvault.felvieira.com.br/) | Salva links, contatos e textos úteis no navegador para buscar e copiar depois. |
+| [MIRROR](https://mirror.felvieira.com.br/) | Analisa o uso de redes sociais e lojas online; o histórico fica no navegador e os insights com IA são opcionais. |
+| [TeamScript](https://teamscript.felvieira.com.br/) | Exporta para TXT, Markdown, SRT ou JSON as falas disponíveis na página da reunião do Teams, sem copiar linha por linha. |
+| [LinkVault](https://linkvault.felvieira.com.br/) | Salva links, contatos e textos úteis no navegador e permite encontrá-los pela busca para copiar quando precisar. |
 
 ## Experiências interativas
 
