@@ -1,5 +1,13 @@
 # Felipe Vieira
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=felvieira&label=visitas%20ao%20perfil&color=0b5b4a&style=flat" alt="Contador de visitas ao perfil" />
+  <a href="https://felvieira.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Abrir-0b5b4a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.felvieira.dev/"><img src="https://img.shields.io/badge/Consultoria-Abrir-0b5b4a?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Consultoria" /></a>
+  <a href="https://www.linkedin.com/in/felvieira"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@felvieira.dev"><img src="https://img.shields.io/badge/YouTube-Assistir-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
 **Senior Frontend Engineer · Frontend Tech Lead · AI Engineer**
 
 Construo produtos digitais e modernizo plataformas com foco em frontend, arquitetura, qualidade e IA aplicada. Tenho mais de **16 anos de experiência**, com atuação em **PagBank/PagSeguro, C&A e Lojas Renner**. Produtos próprios somam mais de **1,1 milhão de instalações**.
@@ -30,6 +38,7 @@ Construo produtos digitais e modernizo plataformas com foco em frontend, arquite
 
 | App | O que faz |
 |---|---|
+| [Ginga IDE](https://gingaide.com.br/) | IDE agêntica brasileira gratuita, conectada ao Oh My Pi. |
 | [NodeProcessor](https://nodeprocessor.felvieira.com.br/) | Organiza processos locais por pasta e mostra uso de memória, CPU, portas e duplicados. |
 | [Pinote](https://pinote.felvieira.dev/#download) | Post-its para Windows, com armazenamento local e download gratuito. |
 | [ShotForge](https://storeshots.felvieira.dev/) | Cria screenshots, banners e mockups para páginas de apps nas lojas. |
