@@ -6,22 +6,58 @@ Construo produtos digitais e modernizo plataformas com foco em frontend, arquite
 
 ## Links
 
-[Site](https://felvieira.com.br) · [Freela](https://felvieira.dev) · [Blog](https://felvieira.github.io/blog/) · [Todos os links](https://links.felvieira.com.br/@felvieira.dev) · [Consultoria 1:1](https://tidycal.com/felvieiradev) · [CV](https://cv.felvieira.com.br) · [Git](https://gitfut.com/felvieira)
+[Portfólio](https://felvieira.github.io/) · [Site pessoal](https://www.felvieira.com.br/) · [Consultoria e projetos](https://www.felvieira.dev/) · [Todos os links](https://links.felvieira.com.br/@felvieira.dev) · [Blog](https://felvieira.github.io/blog/) · [Blog WordPress](https://blog.felvieira.com.br/) · [CV](https://cv.felvieira.com.br) · [GitFut](https://gitfut.com/felvieira)
+
+[GitHub](https://github.com/felvieira) · [LinkedIn](https://www.linkedin.com/in/felvieira) · [X](https://x.com/felvieira_dev) · [Instagram](https://www.instagram.com/felvieira.dev/) · [YouTube](https://youtube.com/@felvieira.dev)
 
 ## Produtos
 
 | Produto | O que faz |
 |---|---|
-| [ShotForge](https://storeshots.felvieira.dev/) | Cria imagens para páginas de aplicativos nas lojas, de forma rápida e gratuita. |
-| [Mentalist AI](https://mentalistai.com.br) | Segundo cérebro autônomo com IA. |
-| [VisaLab](https://www.visalab.com.br) | Dossiê de visagismo personalizado com IA. |
-| [PosterFlix](https://posterflix.net) | Cria pôsteres para decorar a casa com filmes e séries favoritos. |
-| [Thoth AI](https://thothai.online) | Multiassistente integrado a diferentes modelos de linguagem. |
+| [Ginga IDE](https://gingaide.com.br/) | IDE agêntica brasileira gratuita, conectada ao Oh My Pi. |
+| [Pinote](https://pinote.felvieira.dev/#download) | Post-its nativos para Windows, gratuitos e salvos localmente. |
+| [Hygia](https://hygiapp.com.br/) | Organiza laudos, imagens e resultados de exames com IA. |
+| [VisaLab](https://www.visalab.com.br/) | Cria um dossiê completo de visagismo com IA. |
 | [Memra Bíblia](https://memrabiblia.org/landing) | Estudo bíblico com lente acadêmica e recursos de IA. |
 | [Cadê o Dinheiro](https://cadeodinheiro.online) | Orçamento doméstico com apoio de IA. |
-| [Mirror](https://mirror.felvieira.com.br) | Reúne informações públicas encontradas sobre você na web. |
-| [Hygia](https://hygiapp.com.br/) | Organiza laudos, imagens e resultados de saúde em uma linha do tempo revisável, com consulta offline e IA opcional. |
-| [Ginga IDE](https://gingaide.com.br/) | IDE agêntica gratuita conectada ao Oh My Pi, com memória de projeto, troca de modelos e coordenação de agentes. |
+| [Mentalist AI](https://mentalistai.com.br) | Segundo cérebro autônomo com IA. |
+| [PosterFlix](https://posterflix.net) | Cria pôsteres para decorar a casa com filmes e séries favoritos. |
+| [Thoth AI](https://thothai.online) | Multiassistente integrado a diferentes modelos de linguagem. |
+| [Somai · Lista](https://shop.felvieira.dev/) | Lista de compras mensal compartilhada com a família e apoio de IA. |
+| [ShotForge](https://storeshots.felvieira.dev/) | Cria screenshots, banners e mockups para páginas de aplicativos nas lojas, de forma gratuita. |
+
+## Apps gratuitos
+
+| App | O que faz |
+|---|---|
+| [NodeProcessor](https://nodeprocessor.felvieira.com.br/) | Organiza processos locais por pasta e mostra uso de memória, CPU, portas e duplicados. |
+| [Pinote](https://pinote.felvieira.dev/#download) | Post-its para Windows, com armazenamento local e download gratuito. |
+| [ShotForge](https://storeshots.felvieira.dev/) | Cria screenshots, banners e mockups para páginas de apps nas lojas. |
+
+## Extensões gratuitas
+
+| Extensão | O que faz |
+|---|---|
+| [MIRROR](https://mirror.felvieira.com.br/) | Mostra insights sobre hábitos digitais; o histórico fica no navegador. |
+| [TeamScript](https://teamscript.felvieira.com.br/) | Exporta transcrições já exibidas no Microsoft Teams para TXT, Markdown, SRT ou JSON. |
+| [LinkVault](https://linkvault.felvieira.com.br/) | Salva links, contatos e textos úteis no navegador para buscar e copiar depois. |
+
+## Experiências interativas
+
+| Projeto | Descrição |
+|---|---|
+| [Máquina do Tempo](https://timemachine.felvieira.com.br/) | Navegue por três épocas da web: MS-DOS em 1986, Windows 95 em 1996 e Windows XP com MSN em 2004. |
+
+## Consultoria e agendamentos
+
+| Formato | Agendamento |
+|---|---|
+| Orçamento de projeto · 30 min | [Escolher horário](https://tidycal.com/felvieiradev/30-minute-proposal-36vg48j) |
+| App do zero ao deploy · 1 hora | [Escolher horário](https://tidycal.com/felvieiradev/60-minute-proposal) |
+| Pacote com 4 consultorias | [Escolher horário](https://tidycal.com/felvieiradev/240-minute-meeting) |
+| Consultoria de desenvolvimento · 60 min | [Escolher horário](https://tidycal.com/felvieiradev/60-minute-meeting) |
+| Treinamento para equipes | [Escolher horário](https://tidycal.com/felvieiradev/pacote-training-groups) |
+| Consultoria especializada em IA | [Escolher horário](https://tidycal.com/felvieiradev/60-minute-meeting-ai) |
 
 ## Projetos open source
 
@@ -46,4 +82,4 @@ Construo produtos digitais e modernizo plataformas com foco em frontend, arquite
 
 React, Next.js, TypeScript, JavaScript, Node.js, arquitetura frontend, performance, acessibilidade, testes automatizados, IA generativa, agentes e produtos SaaS.
 
-[LinkedIn](https://www.linkedin.com/in/felvieira) · [YouTube](https://youtube.com/@felvieira.dev) · [GitHub](https://github.com/felvieira)
+[LinkedIn](https://www.linkedin.com/in/felvieira) · [X](https://x.com/felvieira_dev) · [Instagram](https://www.instagram.com/felvieira.dev/) · [YouTube](https://youtube.com/@felvieira.dev) · [GitHub](https://github.com/felvieira)
