@@ -27,6 +27,7 @@ Construo produtos digitais e modernizo plataformas com foco em frontend, arquite
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [Dev Agent KIT](https://github.com/felvieira/claude-skills-fv) | Ecossistema open source para planejamento, revisão, segurança, testes e entrega com agentes de desenvolvimento. | Claude Code, Cursor, Gemini CLI, MCP |
 | [Myndo PWA](https://github.com/felvieira/todo-list-offlinefirst) | Template PWA offline-first com sincronização em nuvem, autenticação e IndexedDB. | React, TypeScript, Supabase, Dexie |
 | [Clockify Automator](https://github.com/felvieira/time-tracker-automator-bot) | Lançamento de horas em lote no Clockify para vários dias. | React, TypeScript, ShadCN |
 | [Bot Kanbanize Node](https://github.com/felvieira/bot-kanbanize-node) | Bot Telegram integrado ao Kanbanize para criação de tarefas. | Node.js, Telegram API |
