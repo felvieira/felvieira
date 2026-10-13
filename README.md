@@ -1,7 +1,7 @@
 # Felipe Vieira
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felvieira&label=visitas%20ao%20perfil&color=0b5b4a&style=flat" alt="Contador de visitas ao perfil" />
+  <img src="https://vbr.nathanchung.dev/badge?page_id=felvieira-profile&text=VISITAS&style=for-the-badge&lcolor=16352c&color=0b5b4a" alt="Contador de visitas ao perfil" />
   <a href="https://felvieira.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Abrir-0b5b4a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.felvieira.dev/"><img src="https://img.shields.io/badge/Consultoria-Abrir-0b5b4a?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Consultoria" /></a>
   <a href="https://www.linkedin.com/in/felvieira"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
