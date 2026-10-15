@@ -50,6 +50,7 @@ Construo produtos digitais e modernizo plataformas com foco em frontend, arquite
 | [MIRROR](https://mirror.felvieira.com.br/) | Analisa o uso de redes sociais e lojas online; o histórico fica no navegador e os insights com IA são opcionais. |
 | [TeamScript](https://teamscript.felvieira.com.br/) | Exporta para TXT, Markdown, SRT ou JSON as falas disponíveis na página da reunião do Teams, sem copiar linha por linha. |
 | [LinkVault](https://linkvault.felvieira.com.br/) | Salva links, contatos e textos úteis no navegador e permite encontrá-los pela busca para copiar quando precisar. |
+| [Viylo](https://viylo.felvieira.com.br/) | Baixa vídeos próprios ou autorizados do LinkedIn, Facebook, Instagram e TikTok direto do player no Chrome, sem integração com APIs. |
 
 ## Experiências interativas
 
